@@ -1,0 +1,28 @@
+Timestamp,EventType,Description,SpeechContext
+09:33:07,Attention,Distracted (looking sideways and up),Because I know seen that the black one they use more
+09:33:10,Attention,Focused,Because I know seen that the black one they use more
+09:34:16,Attention,Distracted (looking sideways and up),You don't need to say a lot pressure connects we want pressures to speak first
+09:34:16,Attention,Focused,Is working you see by a different name
+09:34:25,Attention,Distracted (looking sideways and up),Is working you see by a different name
+09:34:36,Attention,Focused,To Wi-Fi
+09:35:52,Hand Motion,Hand Detected,Hello
+09:35:53,Attention,Distracted (looking sideways and up),To Wi-Fi
+09:36:05,Attention,Focused,To Wi-Fi
+09:36:19,Attention,Distracted (looking sideways and up),Nice mixing view
+09:36:20,Attention,Focused,Nice mixing view
+09:36:22,Attention,Distracted (looking sideways and down),OK let me go to chrome
+09:36:23,Attention,Focused,OK let me go to chrome
+09:36:28,Hand Motion,Hand Detected,Hi
+09:36:30,Attention,Distracted (looking sideways and down),Hi
+09:36:31,Attention,Distracted (looking sideways and up),Nice mixing view
+09:36:36,Attention,Focused,Nice mixing view
+09:36:56,Attention,Focused,Awesome
+09:36:58,Attention,Distracted (looking sideways and up),Nice mixing view
+09:37:02,Attention,Focused,Nice mixing view
+09:39:10,Hand Motion,Hand Detected,Hello
+09:40:16,Hand Motion,Hand Detected,okay it depends on how you lose use your language depend on how you use your language
+09:40:41,Attention,Distracted (looking sideways and down),All right thank you
+09:40:42,Attention,Focused,All right thank you
+09:40:43,Hand Motion,Hand Detected,All right thank you
+09:40:46,Attention,Distracted (looking sideways and up),Yeah
+09:40:50,Attention,Focused,Yeah
