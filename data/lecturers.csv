@@ -1,0 +1,11 @@
+lecturer_id,name,email,department,joined_platform
+LEC001,Dr. Amina Okafor,amina.okafor@university.edu.ng,Computer Science,2025-07-27 00:00:00
+LEC002,Prof. James Smith,james.smith@university.edu.ng,Information Technology,2025-06-01 00:00:00
+LEC003,Dr. Chioma Adeyemi,chioma.adeyemi@university.edu.ng,Software Engineering,2025-06-28 00:00:00
+LEC004,Prof. Ibrahim Mohammed,ibrahim.mohammed@university.edu.ng,Computer Science,2025-03-16 00:00:00
+LEC005,Dr. Fatima Bello,fatima.bello@university.edu.ng,Computer Science,2025-04-16 00:00:00
+LEC006,Prof. Kunle Nwosu,kunle.nwosu@university.edu.ng,Computer Science,2025-07-26 00:00:00
+LEC007,Dr. Ngozi Okonkwo,ngozi.okonkwo@university.edu.ng,Computer Science,2025-06-08 00:00:00
+LEC008,Prof. Ahmed Abubakar,ahmed.abubakar@university.edu.ng,Software Engineering,2025-03-26 00:00:00
+LEC009,Dr. Zara Hassan,zara.hassan@university.edu.ng,Computer Science,2025-03-12 00:00:00
+LEC010,Prof. David Johnson,david.johnson@university.edu.ng,Software Engineering,2025-03-16 00:00:00

@@ -1,0 +1,51 @@
+session_id,lecturer_id,lecturer_name,session_name,created_at,ended_at,status,duration_minutes
+SES000001,LEC006,Prof. Kunle Nwosu,Cloud Computing - Week 5,2025-09-04 09:30:00,2025-09-04 10:30:00,completed,60
+SES000002,LEC007,Dr. Ngozi Okonkwo,UI/UX Design - Week 7,2025-09-04 10:30:00,2025-09-04 13:30:00,completed,180
+SES000003,LEC004,Prof. Ibrahim Mohammed,Web Development Fundamentals - Week 2,2025-09-04 11:45:00,2025-09-04 13:00:00,completed,75
+SES000004,LEC002,Prof. James Smith,UI/UX Design - Week 4,2025-09-07 16:00:00,2025-09-07 16:45:00,completed,45
+SES000005,LEC004,Prof. Ibrahim Mohammed,Machine Learning Basics - Week 1,2025-09-08 16:00:00,2025-09-08 18:30:00,completed,150
+SES000006,LEC004,Prof. Ibrahim Mohammed,Cybersecurity Essentials - Week 4,2025-09-09 08:30:00,2025-09-09 09:15:00,completed,45
+SES000007,LEC003,Dr. Chioma Adeyemi,Data Structures and Algorithms - Week 10,2025-09-09 09:15:00,2025-09-09 10:45:00,completed,90
+SES000008,LEC006,Prof. Kunle Nwosu,Database Management Systems - Week 8,2025-09-09 11:30:00,2025-09-09 12:45:00,completed,75
+SES000009,LEC004,Prof. Ibrahim Mohammed,Cybersecurity Essentials - Week 4,2025-09-09 13:00:00,2025-09-09 15:00:00,completed,120
+SES000010,LEC010,Prof. David Johnson,Web Development Fundamentals - Week 3,2025-09-13 09:15:00,2025-09-13 11:15:00,completed,120
+SES000011,LEC001,Dr. Amina Okafor,Big Data Analytics - Week 6,2025-09-14 14:30:00,2025-09-14 17:00:00,completed,150
+SES000012,LEC007,Dr. Ngozi Okonkwo,UI/UX Design - Week 1,2025-09-17 08:30:00,2025-09-17 09:45:00,completed,75
+SES000013,LEC002,Prof. James Smith,Artificial Intelligence - Week 9,2025-09-18 12:00:00,2025-09-18 12:45:00,completed,45
+SES000014,LEC004,Prof. Ibrahim Mohammed,Operating Systems - Week 10,2025-09-19 08:00:00,2025-09-19 09:00:00,completed,60
+SES000015,LEC005,Dr. Fatima Bello,Introduction to Python Programming - Week 2,2025-09-21 15:45:00,2025-09-21 17:45:00,completed,120
+SES000016,LEC008,Prof. Ahmed Abubakar,Mobile App Development - Week 11,2025-09-22 09:30:00,2025-09-22 11:30:00,completed,120
+SES000017,LEC001,Dr. Amina Okafor,Web Development Fundamentals - Week 8,2025-09-22 14:00:00,2025-09-22 15:30:00,completed,90
+SES000018,LEC004,Prof. Ibrahim Mohammed,Computer Networks - Week 3,2025-09-25 11:45:00,2025-09-25 12:45:00,completed,60
+SES000019,LEC006,Prof. Kunle Nwosu,Big Data Analytics - Week 9,2025-09-27 11:00:00,2025-09-27 12:15:00,completed,75
+SES000020,LEC010,Prof. David Johnson,Mobile App Development - Week 1,2025-09-29 08:00:00,2025-09-29 10:30:00,completed,150
+SES000021,LEC008,Prof. Ahmed Abubakar,Web Development Fundamentals - Week 4,2025-09-29 11:45:00,2025-09-29 13:00:00,completed,75
+SES000022,LEC006,Prof. Kunle Nwosu,Mobile App Development - Week 11,2025-10-01 12:45:00,2025-10-01 13:45:00,completed,60
+SES000023,LEC008,Prof. Ahmed Abubakar,Data Structures and Algorithms - Week 2,2025-10-02 15:45:00,2025-10-02 16:45:00,completed,60
+SES000024,LEC004,Prof. Ibrahim Mohammed,Cybersecurity Essentials - Week 9,2025-10-03 08:45:00,2025-10-03 09:30:00,completed,45
+SES000025,LEC004,Prof. Ibrahim Mohammed,DevOps Practices - Week 1,2025-10-05 10:00:00,2025-10-05 11:30:00,completed,90
+SES000026,LEC003,Dr. Chioma Adeyemi,Machine Learning Basics - Week 4,2025-10-05 12:15:00,2025-10-05 14:45:00,completed,150
+SES000027,LEC007,Dr. Ngozi Okonkwo,Big Data Analytics - Week 3,2025-10-06 08:00:00,2025-10-06 09:15:00,completed,75
+SES000028,LEC001,Dr. Amina Okafor,Big Data Analytics - Week 10,2025-10-09 12:15:00,2025-10-09 13:45:00,completed,90
+SES000029,LEC010,Prof. David Johnson,Web Development Fundamentals - Week 11,2025-10-11 09:30:00,2025-10-11 11:30:00,completed,120
+SES000030,LEC007,Dr. Ngozi Okonkwo,Database Management Systems - Week 4,2025-10-12 14:30:00,2025-10-12 16:30:00,completed,120
+SES000031,LEC010,Prof. David Johnson,Web Development Fundamentals - Week 4,2025-10-13 09:15:00,2025-10-13 11:45:00,completed,150
+SES000032,LEC005,Dr. Fatima Bello,DevOps Practices - Week 9,2025-10-15 16:45:00,2025-10-15 19:15:00,completed,150
+SES000033,LEC007,Dr. Ngozi Okonkwo,DevOps Practices - Week 12,2025-10-16 14:45:00,2025-10-16 16:15:00,completed,90
+SES000034,LEC004,Prof. Ibrahim Mohammed,UI/UX Design - Week 6,2025-10-17 14:00:00,2025-10-17 16:30:00,completed,150
+SES000035,LEC003,Dr. Chioma Adeyemi,DevOps Practices - Week 7,2025-10-23 15:45:00,2025-10-23 16:45:00,completed,60
+SES000036,LEC005,Dr. Fatima Bello,Software Engineering Principles - Week 5,2025-10-25 16:45:00,2025-10-25 17:45:00,completed,60
+SES000037,LEC005,Dr. Fatima Bello,Operating Systems - Week 10,2025-10-29 13:00:00,2025-10-29 13:45:00,completed,45
+SES000038,LEC005,Dr. Fatima Bello,Big Data Analytics - Week 9,2025-10-30 11:00:00,2025-10-30 12:30:00,completed,90
+SES000039,LEC005,Dr. Fatima Bello,Introduction to Python Programming - Week 2,2025-11-04 15:30:00,2025-11-04 18:30:00,completed,180
+SES000040,LEC010,Prof. David Johnson,Mobile App Development - Week 12,2025-11-06 13:30:00,2025-11-06 14:30:00,completed,60
+SES000041,LEC004,Prof. Ibrahim Mohammed,Mobile App Development - Week 10,2025-11-14 08:00:00,2025-11-14 09:30:00,completed,90
+SES000042,LEC001,Dr. Amina Okafor,Cybersecurity Essentials - Week 2,2025-11-14 15:15:00,2025-11-14 16:00:00,completed,45
+SES000043,LEC007,Dr. Ngozi Okonkwo,UI/UX Design - Week 10,2025-11-17 16:00:00,2025-11-17 17:30:00,completed,90
+SES000044,LEC007,Dr. Ngozi Okonkwo,Database Management Systems - Week 3,2025-11-19 10:15:00,2025-11-19 13:15:00,completed,180
+SES000045,LEC010,Prof. David Johnson,Software Engineering Principles - Week 9,2025-11-23 13:45:00,2025-11-23 15:15:00,completed,90
+SES000046,LEC007,Dr. Ngozi Okonkwo,Computer Networks - Week 9,2025-11-25 14:15:00,2025-11-25 16:15:00,completed,120
+SES000047,LEC005,Dr. Fatima Bello,Cloud Computing - Week 10,2025-11-25 15:15:00,2025-11-25 17:15:00,cancelled,120
+SES000048,LEC001,Dr. Amina Okafor,Big Data Analytics - Week 2,2025-11-26 09:00:00,2025-11-26 10:30:00,completed,90
+SES000049,LEC002,Prof. James Smith,Cybersecurity Essentials - Week 3,2025-11-28 10:00:00,2025-11-28 13:00:00,completed,180
+SES000050,LEC009,Dr. Zara Hassan,Web Development Fundamentals - Week 11,2025-11-30 12:00:00,2025-11-30 14:30:00,completed,150
